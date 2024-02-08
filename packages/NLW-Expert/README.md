@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo NLW Expert - Rocketseat" src=".github/logo.png" width="200px" />
+  <img alt="Logo NLW Expert - Rocketseat" src=".github/logo (1).png" width="200px" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="80%">
+  <img alt="Preview do projeto desenvolvido." src=".github/preview.PNG" width="80%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Nesse projeto você vai desenvolver um quiz pra testar os seus conhecimentos técnicos e ter um retorno sobre a quantidade de questões que você acertou.
+Nesse projeto da NLW foi desenvolvido um quiz pra testar os meus conhecimentos técnicos e ter um retorno sobre a quantidade de questões que você acertou.
 
 
 ## 📝 Licença
