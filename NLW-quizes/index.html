@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>NLW Expert</title>
+  </head>
+
+  <body>
+    <header>
+       <img src="https://gist.githubusercontent.com/maykbrito/f47569e32fb2b21f2ecc9f4c035c141f/raw/a45997404564112d7596fbb1b9cad5de5521927e/logo.svg"
+       alt="Logo da NLW">
+      <h1>
+        Teste seus Conhecimentos
+      </h1>
+    </header>
+    <main>
+
+       <div id="buttons">
+        <button class="buttons" id="javascript">JavaScript</button>
+        <button class="buttons" id="react">React</button>
+        <button  class="buttons" id="nextjs">Next.js</button>
+        <!-- Adicione mais botões para outros tipos de perguntas, se necessário -->
+      </div>
+ 
+    <div id="quiz"></div>
+
+    <template id="quiz-template">
+  <div class="quiz-item">
+    <h3>Pergunta 01</h3>
+    <!--
+          <dl>: <dl> representa uma lista de descrição. No contexto do item do quiz, é usado para definir uma lista de perguntas e respostas.
+          <dt>: <dt> representa um termo ou nome em uma lista de descrição. Aqui, é usado para cada opção de resposta.
+        -->
+    <dl>
+      <dt>
+        <input type="radio" name="item" value="0" />
+        <span> Resposta A </span>
+      </dt>
+    </dl>
+  </div>
+</template>
+
+    <section id="acertos">
+      <strong>Acertos</strong>
+      <span>0 de 20</span>
+    </section>
+    </main>
+    
+    <script src="./script.js"></script>
+  </body>
+</html>
+     

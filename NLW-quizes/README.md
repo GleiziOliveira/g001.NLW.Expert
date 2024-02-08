@@ -18,6 +18,10 @@ Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
 
 <br>
 
+<p align="center">
+  <img alt="Preview do projeto desenvolvido." src=".github/preview.PNG" width="80%">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -30,11 +34,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Nesse projeto da NLW foi desenvolvido um quiz pra testar os meus conhecimentos técnicos e ter um retorno sobre a quantidade de questões que você acertou.
-
-## 💻 Acesse o projeto 
-
-- [Quiz - JavaScript](https://65c4e930c27d1c1e83633181--magnificent-paletas-4ad35c.netlify.app)
-- [Quiz derivado do de cima](https://resilient-cuchufli-87e8de.netlify.app)
 
 
 ## 📝 Licença

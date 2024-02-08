@@ -1,8 +1,0 @@
-{
-  "name": "g001.NLW.Expert",
-  "version": "0.1.0",
-  "private": true,
-  "workspaces": [
-    "packages/NLW-Expert"
-  ]
-}
