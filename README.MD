@@ -33,6 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Nesse projeto da NLW foi desenvolvido um quiz pra testar os meus conhecimentos técnicos e ter um retorno sobre a quantidade de questões que você acertou.
+O segundo projeto é uma aplicação que permite aos usuários criar notas por meio da digitação ou fala, com a API convertendo automaticamente o áudio em texto. 
 
 ## 💻 Acesse o projeto 
 
