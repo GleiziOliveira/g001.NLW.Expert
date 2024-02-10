@@ -1,9 +1,9 @@
 <p align="center">
-  <img alt="Logo NLW Expert - Rocketseat" src=".github/logo (1).png" width="200px" />
+  <img alt="Logo NLW Expert - Rocketseat" src="./NLW-Expert/.github/logo (1).png" width="200px" />
 </p>
 
 <p align="center">
-Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
+Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS e ReactJs.
 </p>
 
 <p align="center">
@@ -25,7 +25,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-
+- React
+- TypeScript
+- Tailwind
+- SpeechRecognition API
 
 ## 💻 Projeto
 
@@ -35,6 +38,7 @@ Nesse projeto da NLW foi desenvolvido um quiz pra testar os meus conhecimentos t
 
 - [Quiz - JavaScript](https://65c4e930c27d1c1e83633181--magnificent-paletas-4ad35c.netlify.app)
 - [Quiz derivado do de cima](https://resilient-cuchufli-87e8de.netlify.app)
+- [Notes](https://nlw-expert-note-fawn.vercel.app)
 
 
 ## 📝 Licença
